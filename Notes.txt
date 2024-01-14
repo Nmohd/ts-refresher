@@ -1,0 +1,11 @@
+Why TS?
+Ts builds up on JS and extends its syntax by adding strong typing.
+TS helps in catch and fix type-related errors earlier
+
+BASIC TYPES
+String
+Number
+Boolean
+Union type |
+Object 
+Array
